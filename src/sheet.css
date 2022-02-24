@@ -1,0 +1,45 @@
+.header {
+  font-size: 45px;
+  font-family: cursive;
+  text-align: center;
+  text-shadow: 4px 4px rgb(73, 148, 235);
+  margin-top: 20px;
+  
+}
+
+#Css_Inline{
+  color:blueviolet;
+  font-size: 20px;
+}
+
+#Css_External{
+  font-size:20px;
+}
+
+#child-element{
+   display:block;
+   position: absolute;
+   left:150px;
+   margin:50px 0 0 50px;
+   width:500px;
+   height:300px;
+   border:2px solid;
+   border-radius:60px;
+   text-align: center;
+   padding-top: 50px;
+   background-color: rgb(240, 167, 79);
+}
+
+#child-element01{
+  display: block;
+  position: absolute;
+  left: 780px;
+  margin: 50px 0 0 50px;
+  width : 500px;
+  height : 300px;
+  border : 2px solid;
+  border-radius : 60px;
+  text-align : center;
+  padding-top : 50px;
+  background-color : rgb(240, 167, 79);
+}

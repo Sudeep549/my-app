@@ -1,0 +1,30 @@
+#Func_Button {
+  background-color: rgb(240, 57, 57);
+}
+
+#Func_Button:hover {
+  background-color: rgb(245, 106, 106);
+}
+
+#Class_Button {
+  background-color: rgb(240, 57, 57);
+}
+
+#Class_Button:hover {
+  background-color: rgb(245, 106, 106);
+}
+
+.Button {
+  width: 400px;
+  height: 90px;
+  margin: 30px 30px 0 30px;
+  border: 4px solid red;
+  border-radius: 55px;
+  font-size: 20px;
+  font-family: cursive;
+  color:rgb(240, 229, 229)
+}
+
+.tap_button{
+    text-align: center;
+}
